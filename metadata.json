@@ -1,0 +1,17 @@
+{
+  "id": "7493d22c-6963-4308-b0e2-25252d3a9b93",
+  "name": "Virtual Try-On Ecommerce App",
+  "user_id": "741055b9-c7d7-4e31-98a6-b3f15d764c3e",
+  "created_at": "2025-10-04T23:06:29.178821+00:00",
+  "updated_at": "2025-10-04T23:06:29.178844+00:00",
+  "status": "ready",
+  "github": {
+    "repository_url": "https://github.com/mtomr3/Virtual-Try-On-Ecommerce-App",
+    "repository_name": "Virtual-Try-On-Ecommerce-App",
+    "owner": "mtomr3",
+    "created_at": "2025-10-07T03:24:08Z",
+    "last_commit_sha": "f4917c1272b86f389c9998f84b896887a2ca6939",
+    "published_at": "2025-10-07T03:24:12.160467+00:00",
+    "last_push_at": "2025-10-07T03:27:36.122665+00:00"
+  }
+}
